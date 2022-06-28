@@ -1,0 +1,16 @@
+{
+  "name": "patients-worklist-json-server",
+  "version": "1.0.0",
+  "description": "json server",
+  "main": "index.js",
+  "repository": "git@github.com:dupadhyay3/patients-worklist-json-server.git",
+  "author": "Deepak",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  }
+}
