@@ -8,9 +8,9 @@
       "age": "20",
       "gender": "Male",
       "phoneNo": "9825654520",
-      "vaccinationStatus": "Partially",
-      "vaccineName": "Covi Sheald",
-      "symtoms": [
+      "vaccinationStatus": "Fully vaccinated",
+      "vaccineName": "Covishield",
+      "symptoms": [
         "Cough",
         "Headache"
       ],
@@ -25,9 +25,9 @@
       "age": "45",
       "gender": "Male",
       "phoneNo": "9854545445",
-      "vaccinationStatus": "Partially",
-      "vaccineName": "Covi Sheald",
-      "symtoms": [
+      "vaccinationStatus": "Partially vaccinated",
+      "vaccineName": "Covaxin",
+      "symptoms": [
         "Cough",
         "Headache"
       ],
